@@ -1,0 +1,10 @@
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTitles.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\NewWinForm1stDB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
